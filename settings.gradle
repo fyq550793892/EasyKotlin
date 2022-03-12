@@ -1,0 +1,2 @@
+rootProject.name = "EasyCloudKotlin"
+include ':app'
